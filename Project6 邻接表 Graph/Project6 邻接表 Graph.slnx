@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project6 邻接表 Graph/Project6 邻接表 Graph.vcxproj" Id="ba67c884-34b8-4b72-bcca-26bfd51628d2" />
+</Solution>

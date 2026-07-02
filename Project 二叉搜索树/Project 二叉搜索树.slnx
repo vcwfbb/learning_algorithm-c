@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project 二叉搜索树/Project 二叉搜索树.vcxproj" Id="aa5f6cb6-0e74-4c31-88c2-1a72ed9de38f" />
+</Solution>
